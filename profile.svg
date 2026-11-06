@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="540" viewBox="0 0 480 540" role="img" aria-labelledby="title">
+  <title id="title">녹색 니트를 입은 사람의 프로필 일러스트</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e1e8d9"/><stop offset="1" stop-color="#c9d6c0"/></linearGradient><linearGradient id="shirt" x2="1" y2="1"><stop stop-color="#55735a"/><stop offset="1" stop-color="#304f3b"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h480v540H0z"/>
+  <circle cx="244" cy="224" r="151" fill="#eef0e3" opacity=".65"/>
+  <path d="M0 445q115-35 240-12t240-12v119H0" fill="#bac9ad"/>
+  <path d="M84 540v-66c0-83 61-134 156-134s156 51 156 134v66" fill="url(#shirt)"/>
+  <path d="M208 306h64v62q-31 31-64 0" fill="#dba685"/>
+  <ellipse cx="240" cy="235" rx="86" ry="108" fill="#e7b899"/>
+  <ellipse cx="157" cy="246" rx="14" ry="22" fill="#e7b899"/><ellipse cx="323" cy="246" rx="14" ry="22" fill="#e7b899"/>
+  <path d="M155 239c-15-67 4-133 77-140 72-7 110 49 95 139l-18-42c-42 6-78-12-96-37-3 28-27 49-52 52z" fill="#35362f"/>
+  <path d="M185 226q12-7 23-1m59 0q12-6 23 1" stroke="#51463a" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <ellipse cx="201" cy="244" rx="4" ry="5" fill="#37372f"/><ellipse cx="278" cy="244" rx="4" ry="5" fill="#37372f"/>
+  <path d="m240 245-5 24h10" stroke="#c68e73" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M218 290q22 20 44 0" stroke="#9b6050" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M197 355q43 46 86 0" stroke="#2f4e38" stroke-width="8" fill="none"/>
+  <g stroke="#799078" opacity=".4" stroke-width="2"><path d="M153 422v118m22-132v132m22-122v122m22-118v118m22-115v115m22-118v118m22-122v122m22-132v132m22-118v118"/></g>
+  <path d="m386 81 5 16 16 5-16 5-5 16-5-16-16-5 16-5z" fill="#fafaf1"/>
+</svg>

@@ -1,0 +1,9 @@
+{
+  "name": "personal-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal profile website served with the Node.js HTTP module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
