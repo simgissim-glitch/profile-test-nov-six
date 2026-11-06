@@ -4,6 +4,7 @@
   "private": true,
   "description": "Personal profile website served with the Node.js HTTP module",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "node build.js"
   }
 }
